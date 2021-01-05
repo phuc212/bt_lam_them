@@ -1,0 +1,16 @@
+D:\module2\oop_week2\bai_tap_tong_hop_2\bin\Debug\net5.0\bai_tap_tong_hop_2.exe
+D:\module2\oop_week2\bai_tap_tong_hop_2\bin\Debug\net5.0\bai_tap_tong_hop_2.deps.json
+D:\module2\oop_week2\bai_tap_tong_hop_2\bin\Debug\net5.0\bai_tap_tong_hop_2.runtimeconfig.json
+D:\module2\oop_week2\bai_tap_tong_hop_2\bin\Debug\net5.0\bai_tap_tong_hop_2.runtimeconfig.dev.json
+D:\module2\oop_week2\bai_tap_tong_hop_2\bin\Debug\net5.0\bai_tap_tong_hop_2.dll
+D:\module2\oop_week2\bai_tap_tong_hop_2\bin\Debug\net5.0\ref\bai_tap_tong_hop_2.dll
+D:\module2\oop_week2\bai_tap_tong_hop_2\bin\Debug\net5.0\bai_tap_tong_hop_2.pdb
+D:\module2\oop_week2\bai_tap_tong_hop_2\obj\Debug\net5.0\bai_tap_tong_hop_2.csprojAssemblyReference.cache
+D:\module2\oop_week2\bai_tap_tong_hop_2\obj\Debug\net5.0\bai_tap_tong_hop_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\oop_week2\bai_tap_tong_hop_2\obj\Debug\net5.0\bai_tap_tong_hop_2.AssemblyInfoInputs.cache
+D:\module2\oop_week2\bai_tap_tong_hop_2\obj\Debug\net5.0\bai_tap_tong_hop_2.AssemblyInfo.cs
+D:\module2\oop_week2\bai_tap_tong_hop_2\obj\Debug\net5.0\bai_tap_tong_hop_2.csproj.CoreCompileInputs.cache
+D:\module2\oop_week2\bai_tap_tong_hop_2\obj\Debug\net5.0\bai_tap_tong_hop_2.dll
+D:\module2\oop_week2\bai_tap_tong_hop_2\obj\Debug\net5.0\ref\bai_tap_tong_hop_2.dll
+D:\module2\oop_week2\bai_tap_tong_hop_2\obj\Debug\net5.0\bai_tap_tong_hop_2.pdb
+D:\module2\oop_week2\bai_tap_tong_hop_2\obj\Debug\net5.0\bai_tap_tong_hop_2.genruntimeconfig.cache
